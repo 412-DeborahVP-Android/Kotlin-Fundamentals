@@ -21,4 +21,23 @@ fun main() {
 //CAMBIO CHIDO 1
     //CAMBIO QUE SE ME OLVIDO
     //CAMBIO CHIDO 2
+    //cambio chido 3 y pequeño
+
+    //Pantalla inicio
+    //Agregar lo que me falta
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
