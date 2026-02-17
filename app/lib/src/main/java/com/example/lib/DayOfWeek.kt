@@ -26,6 +26,9 @@ fun main() {
     //Pantalla inicio
     //Agregar lo que me falta
 
+    //Pantalla de configuración
+    //Creando la interfaz gráfica de la pantalla
+    //Agregando estilos
 }
 
 
