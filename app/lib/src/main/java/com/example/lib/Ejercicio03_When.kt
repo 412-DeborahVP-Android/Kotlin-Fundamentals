@@ -14,7 +14,7 @@ package com.example.lib
 // 4 -> Jueves
 // 7 -> Domingo
 // 9 -> Dia no valido
-
+//
 fun main() {
     val dias = listOf(1, 4, 7, 9, 3, 6)
 
