@@ -10,7 +10,7 @@ package com.example.lib
 // Suma de digitos de 12345: 15
 // Suma de digitos de 9081: 18
 // Suma de digitos de 100: 1
-
+//
 fun main() {
     val numeros = listOf(12345, 9081, 100)
 
